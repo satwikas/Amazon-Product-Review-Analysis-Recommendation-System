@@ -4,10 +4,10 @@ This project focuses on developing a system that enhances the e-commerce shoppin
 
 **Key Features**
 
-**Sentiment Analysis:** Classifies product reviews as positive, negative, or neutral to provide a comprehensive overview of customer feedback.
-**Topic Modeling:** Extracts key features and themes from user reviews, highlighting common trends and product attributes.
-**Recommendation Engine:** Suggests tailored product recommendations to users based on their preferences and historical review data.
-**Collaborative Filtering:** Suggests tailored product recommendations using user-based or item-based collaborative filtering.
+**Sentiment Analysis:** Classifies product reviews as positive, negative, or neutral to provide a comprehensive overview of customer feedback.                
+**Topic Modeling:** Extracts key features and themes from user reviews, highlighting common trends and product attributes.                            
+**Recommendation Engine:** Suggests tailored product recommendations to users based on their preferences and historical review data.                     
+**Collaborative Filtering:** Suggests tailored product recommendations using user-based or item-based collaborative filtering.                       
 **Actionable Insights:** Offers both consumers and sellers valuable insights into customer behavior, improving decision-making and product development.
 
 **Technologies Used**

@@ -12,21 +12,21 @@ This project focuses on developing a system that enhances the e-commerce shoppin
 
 **Technologies Used**
 
-Programming Language: R
-NLP Libraries: tm, textclean, tidytext
-Machine Learning: caret, randomForest, e1071, factoextra (for K-Means clustering),tensorflow
-Collaborative Filtering: recommenderlab
-Sentiment Analysis: syuzhet, textdata, SentimentAnalysis
-Visualization: ggplot2, wordcloud, plotly
-Data: Kaggle’s Amazon Sales Dataset
-Other Libraries: dplyr, tidyr, stringr
+Programming Language: R             
+NLP Libraries: tm, textclean, tidytext               
+Machine Learning: caret, randomForest, e1071, factoextra (for K-Means clustering),tensorflow             
+Collaborative Filtering: recommenderlab             
+Sentiment Analysis: syuzhet, textdata, SentimentAnalysis             
+Visualization: ggplot2, wordcloud, plotly              
+Data: Kaggle’s Amazon Sales Dataset              
+Other Libraries: dplyr, tidyr, stringr                 
 
 **Results**
 
-**Sentiment Distribution:** Visualizes the breakdown of positive, negative, and neutral reviews.
-**Topic Insights:** Highlights the most discussed product features and customer concerns.
-**Clustering:** Groups products/reviews based on similar sentiment and features.
-**Product Recommendations:** Provides personalized recommendations to users based on collaborative filtering.
+**Sentiment Distribution:** Visualizes the breakdown of positive, negative, and neutral reviews.             
+**Topic Insights:** Highlights the most discussed product features and customer concerns.              
+**Clustering:** Groups products/reviews based on similar sentiment and features.             
+**Product Recommendations:** Provides personalized recommendations to users based on collaborative filtering.        
 
 
 
